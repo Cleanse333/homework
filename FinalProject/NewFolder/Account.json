@@ -1,0 +1,83 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "CardDetails": {
+    "CardNumber": "1234567890",
+    "ExpirationDate": "12/28",
+    "CVC": "060"
+  },
+  "PinCode": "9999",
+  "Balance": 1250.0,
+  "Transactions": [
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T00:00:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 391.98,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2025-09-28T18:58:44.4039317+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 150.0,
+      "AmountUSD": 55.5,
+      "AmountEUR": 48.0
+    },
+    {
+      "TransactionDate": "2025-09-28T19:09:46.891173+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 500.0,
+      "AmountUSD": 185.0,
+      "AmountEUR": 160.0
+    },
+    {
+      "TransactionDate": "2025-09-28T19:10:31.5544974+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 500.0,
+      "AmountUSD": 185.0,
+      "AmountEUR": 160.0
+    }
+  ]
+}

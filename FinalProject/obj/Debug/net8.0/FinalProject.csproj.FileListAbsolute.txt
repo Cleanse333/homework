@@ -1,0 +1,17 @@
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.exe
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.deps.json
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.runtimeconfig.json
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.dll
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\FinalProject.pdb
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.AssemblyInfo.cs
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.dll
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\refint\FinalProject.dll
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.pdb
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.genruntimeconfig.cache
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\bsiab\source\repos\FinalProject\FinalProject\obj\Debug\net8.0\FinalPro.8C09D514.Up2Date
